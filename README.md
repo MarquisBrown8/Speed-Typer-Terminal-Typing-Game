@@ -1,4 +1,3 @@
-# Speed-Typer-Terminal-Typing-Game
 # ⌨️ Speed Typer
 
 A terminal typing speed game to test your WPM and accuracy in real-time.
